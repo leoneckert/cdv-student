@@ -1,15 +1,19 @@
+body{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.center{
+  text-align: center;
+}
+
 #c{
   background-color: black;
 }
 
-.inputs{
-  text-align: center;
-}
 #noSquares{
   max-width: 100px;
   float: top;
-}
-
-body{
-  background-color: black;
+  margin-top: 0px;
 }
