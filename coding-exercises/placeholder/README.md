@@ -1,10 +1,9 @@
 ## Exercise (placeholder)
 
 In this exercise I encountered
-- problems
+- problems like calculating the proper height for a canvas
 and
-- learned things
-...
+- learned things like using canvases to draw procedurally. 
 
-See my work [here](https://leoneckert.github.io/cdv-student/coding-exercises/placeholder/website/). (note this link goes to GitHub Pages, the *public* face of this project)
+See my work [here](https://AdrienVen.github.io/cdv-student/coding-exercises/placeholder/website/).
 ̨
