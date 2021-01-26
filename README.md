@@ -6,5 +6,5 @@
 
 Among other things, I will link to Coding Exercises and Projects:
 
-- [coding exercise 1](coding-exercises/placeholder/website/index.html)
+- [coding exercise 1](coding-exercises/placeholder/)
 - [cool project (placeholder)](projects/placeholder)
