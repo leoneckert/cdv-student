@@ -1,5 +1,15 @@
-p{
-  color: blue;
-  font-style: italic;
-  font-family: sans-serif;
+#c{
+  background-color: black;
+}
+
+.inputs{
+  text-align: center;
+}
+#noSquares{
+  max-width: 100px;
+  float: top;
+}
+
+body{
+  background-color: black;
 }
