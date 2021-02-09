@@ -1,0 +1,19 @@
+body{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.center{
+  text-align: center;
+}
+
+#c{
+  background-color: black;
+}
+
+#noSquares{
+  max-width: 100px;
+  float: top;
+  margin-top: 0px;
+}
